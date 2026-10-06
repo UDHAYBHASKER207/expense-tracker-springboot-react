@@ -72,8 +72,8 @@ project-root/
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/JOHNWICKabi/SpringBoot-React-Expense-Manager.git
-cd expense-manager
+git clone https://github.com/UDHAYBHASKER207/expense-tracker-springboot-react.git
+cd expense-tracker-springboot-react
 ```
 
 ---
